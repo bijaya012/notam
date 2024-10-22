@@ -261,5 +261,5 @@ You're welcome to [submit issues](https://github.com/svoop/notam/issues) and con
 In the early days, the acronym [NOTAM](https://en.wikipedia.org/wiki/NOTAM) ment "Notice to Airmen". As many women roam the skies these days as well, it has finally been redefined as "Notice to Air Missions".
 
 ## License
-
+//DEMO text
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
